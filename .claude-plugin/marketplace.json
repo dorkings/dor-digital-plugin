@@ -1,0 +1,29 @@
+{
+  "name": "dor-digital",
+  "owner": {
+    "name": "Dor Amos",
+    "url": "https://dor-growth-partner.vercel.app"
+  },
+  "metadata": {
+    "description": "Hebrew marketing toolkit by dor digital: a landing-page machine and a Meta Ads dashboard builder",
+    "version": "2.0.0"
+  },
+  "plugins": [
+    {
+      "name": "landing-pages",
+      "source": "./plugins/landing-pages",
+      "description": "מכונת דפי הנחיתה: שאלון של 20 דקות, ומשם קלוד בונה דף נחיתה ממיר בעברית, כולל תקנון ונגישות, שער איכות ופרסום לאוויר",
+      "version": "1.0.0",
+      "category": "marketing",
+      "tags": ["landing-pages", "hebrew", "rtl", "copywriting", "conversion", "legal", "accessibility", "vercel"]
+    },
+    {
+      "name": "dashboard-builder",
+      "source": "./plugins/dashboard-builder",
+      "description": "בניית דשבורד SaaS מותאם אישית לניהול קמפיינים ולקוחות במטא",
+      "version": "1.0.0",
+      "category": "marketing",
+      "tags": ["dashboard", "meta-ads", "saas", "hebrew"]
+    }
+  ]
+}

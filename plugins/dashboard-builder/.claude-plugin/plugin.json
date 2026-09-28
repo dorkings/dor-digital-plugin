@@ -1,0 +1,8 @@
+{
+  "name": "dashboard-builder",
+  "description": "בניית דשבורד SaaS מותאם אישית לניהול קמפיינים ולקוחות במטא",
+  "version": "1.0.0",
+  "author": { "name": "Dor Amos" },
+  "keywords": ["dashboard", "meta-ads", "saas", "hebrew"],
+  "license": "UNLICENSED"
+}

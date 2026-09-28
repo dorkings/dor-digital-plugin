@@ -1,0 +1,8 @@
+{
+  "name": "landing-pages",
+  "description": "מכונת דפי הנחיתה של dor digital. שאלון של 20 דקות ומשם קלוד כותב את הקופי, בונה את הדף בעברית RTL, מייצר תקנון והצהרת נגישות, מריץ שער איכות על 6 רוחבי מסך ומפרסם לאוויר.",
+  "version": "1.0.0",
+  "author": { "name": "Dor Amos" },
+  "keywords": ["landing-pages", "hebrew", "rtl", "copywriting", "conversion", "direct-response", "legal", "accessibility", "meta-pixel", "vercel"],
+  "license": "UNLICENSED"
+}
